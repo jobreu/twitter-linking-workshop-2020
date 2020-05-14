@@ -1,0 +1,2 @@
+python -m bash_kernel.install
+jupyter labextension install @jupyterlab/toc
