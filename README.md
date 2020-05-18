@@ -14,7 +14,7 @@ If you have worked with *Jupyter Notebooks* before, you might want to know that 
 
 [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/gesis_dataday_20/master?urlpath=lab)
 
-Clicking the button will open a website in your browser with interactive *Jupyter Notebooks* that allow you to try out the [*rtweet*](http://rtweet.info/) package for `R` and the [*tweepy*](https://www.tweepy.org/), [*GetOldTweets*](https://github.com/Jefferson-Henrique/GetOldTweets-python) and [*twint*](https://github.com/twintproject/twint) libraries for `Python` without the need to install anything on your own computer.  
+Clicking the button will open a website in your browser with interactive *Jupyter Notebooks* that allow you to try out the [*rtweet*](http://rtweet.info/) package for `R` and the [*tweepy*](https://www.tweepy.org/), [*GetOldTweets3*](https://pypi.org/project/GetOldTweets3/) and [*twint*](https://github.com/twintproject/twint) libraries for `Python` without the need to install anything on your own computer.  
 
 **NB**: This *GESIS Notebook* project is only meant for demonstration purposes. It should not be used for actually collecting data. If you want to use (code from) the notebooks to collect your own data, please download the notebook(s) and run them locally on your machine (or your own server).
 
